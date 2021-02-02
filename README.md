@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="100" src="https://github.com/xyLotus/xyhtml/raw/main/github/xyhtml.png">
+    <img height="100" src="https://github.com/bellrise/xyhtml/raw/main/github/xyhtml.png">
 </p>
 
 <!-- Stickers -->
